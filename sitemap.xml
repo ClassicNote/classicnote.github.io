@@ -11,22 +11,13 @@
     <loc>https://classicnote.github.io/categories/</loc>
     <lastmod>2023-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://classicnote.github.io/tags/change/</loc>
-    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://classicnote.github.io/categories/life/</loc>
-    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://classicnote.github.io/tags/</loc>
     <lastmod>2023-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://classicnote.github.io/blog/2023/6/morning/</loc>
     <lastmod>2023-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://classicnote.github.io/tags/book/</loc>
-    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://classicnote.github.io/categories/concept/</loc>
+    <loc>https://classicnote.github.io/categories/book/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://classicnote.github.io/blog/2023/6/scarcity/</loc>
@@ -34,9 +25,6 @@
   </url><url>
     <loc>https://classicnote.github.io/about/</loc>
     <lastmod>2023-06-17T13:49:23+06:00</lastmod>
-  </url><url>
-    <loc>https://classicnote.github.io/tags/learning/</loc>
-    <lastmod>2023-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://classicnote.github.io/blog/2023/6/peak/</loc>
     <lastmod>2023-06-17T00:00:00+00:00</lastmod>
@@ -49,5 +37,7 @@
   </url><url>
     <loc>https://classicnote.github.io/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url><url>
+    <loc>https://classicnote.github.io/tags/</loc>
   </url>
 </urlset>
